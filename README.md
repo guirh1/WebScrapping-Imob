@@ -29,7 +29,7 @@ Instale as dependências
   conda install bs4
 ```
 
-## Autores
+## Autor
 
 - [@GuiRH](https://github.com/guirh1)
 
