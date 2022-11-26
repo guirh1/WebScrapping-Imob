@@ -32,8 +32,6 @@ Instale as dependências
 ## Autores
 
 - [@GuiRH](https://github.com/guirh1)
-- [@LeoFollador](https://github.com/Folladorleo)
-
 
 
 ## Licença
