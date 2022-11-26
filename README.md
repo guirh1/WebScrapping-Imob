@@ -1,7 +1,7 @@
 
 # ImobWeb - Webscrapping
 
-O projeto consiste em um sistema de Webscrapping focado em sites de imobiliárias.
+O projeto consiste em um sistema de Webscrapping focado em sites de imobiliárias utilizando phyton, visando analizar valores e dimensionar ações futuras.
 ## Funcionalidades
 
 - Realizar a verificação da ultima pagina com casas disponiveis
